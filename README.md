@@ -1,8 +1,8 @@
 # FleetLink
 
-FleetLink is a vehicle booking system that allows users to check available vehicles and make bookings.
-It provides APIs to check vehicle availability, book vehicles.  
-The frontend is built with React, and the backend uses Node.js and Express.
+- FleetLink is a vehicle booking system that allows users to check available vehicles and make bookings.
+- It provides APIs to check vehicle availability and book vehicles.  
+- The frontend is built with React, and the backend uses Node.js and Express.
 
 ---
 
