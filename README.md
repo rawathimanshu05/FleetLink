@@ -1,4 +1,4 @@
-# Fleetlink
+# FleetLink
 
 FleetLink is a vehicle booking system that allows users to check available vehicles and make bookings.
 It provides APIs to check vehicle availability, book vehicles.  
