@@ -11,7 +11,7 @@ The frontend is built with React, and the backend uses Node.js and Express.
 - 🚚 Search and view available vehicles  
 - 📦 Book a vehicle based on capacity, source, destination, and time
 - 🔄 RESTful APIs for booking and vehicle management  
-- ⚡ Simple, clean frontend 
+- ⚡ Simple and clean frontend 
 
 ---
 
