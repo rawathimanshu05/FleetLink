@@ -1,0 +1,116 @@
+body {
+  background-color: #f0f2f5; 
+  font-family: 'Arial', sans-serif;
+}
+
+.register-container {
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.register-title {
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+
+input {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: border-color 0.3s;
+}
+
+input:focus {
+  border-color: #007bff; /* Blue focus border */
+  outline: none;
+}
+
+.submit-button {
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff; /* Blue background */
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button-back{
+    padding: 12px;
+  border: none;
+  border-radius: 4px;
+  background-color: #28a745;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button-back:hover {
+  background-color: #218838; /* Bootstrap success hover */
+}
+
+.headingoftable{
+       text-align: center;
+       padding: 15px;
+      font-weight: bold;
+      color: #666;
+}
+
+.tablepadtext{
+  padding: 12px;
+  text-align: center;
+}
+
+.submit-button-forward{
+   padding: 12px;
+  border: none;
+  border-radius: 4px;
+  background-color:  #dc3545; 
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button-forward:hover {
+  background-color: #c82333; 
+}
+
+.submit-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+.login-link {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.login-link a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.login-link a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
