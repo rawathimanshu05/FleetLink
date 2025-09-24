@@ -17,6 +17,6 @@
 
 ## Tech Stack
 
-- **Frontend:** React, Bootstrap  
+- **Frontend:** React  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
